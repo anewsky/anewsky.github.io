@@ -1,0 +1,22 @@
+{
+  "name": "anewsky.github.io",
+  "version": "1.0.0",
+  "description": "This is a new website for A New Sky Coaching",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blakemade/anewsky.github.io.git"
+  },
+  "author": "blakemade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blakemade/anewsky.github.io/issues"
+  },
+  "homepage": "https://github.com/blakemade/anewsky.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0-beta1"
+  }
+}
