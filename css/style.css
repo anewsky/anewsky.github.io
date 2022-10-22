@@ -18,13 +18,13 @@ nav {
   display: flex;
 }
 
-.background-image {
+/* .background-image {
   background-image: url("IMG_8964.jpeg");
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-}
+} */
 
 li a {
   display: block;
